@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anurag2293
+- 👋 Hi, I’m Anurag
 - 👀 I’m interested in learning to code and exploring new stuff.
-- 🌱 I’m currently learning JAVA.
-- 📫 How to reach me - my LinedIn ID : Anurag Dhote
+- 🌱 I’m currently learning Web Development with Node.js
+- 📫 How to reach me - my LinkedIn profile : linkedin.com/in/anurag-dhote
 
 <!---
 Anurag2293/Anurag2293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
